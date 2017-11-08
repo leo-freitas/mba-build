@@ -1,0 +1,22 @@
+{
+  "name": "mba-build",
+  "version": "1.0.0",
+  "description": "Script de download, build, install e upload para projetos da MBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-freitas/mba-build.git"
+  },
+  "keywords": [
+    "mba-build"
+  ],
+  "author": "MBA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-freitas/mba-build/issues"
+  },
+  "homepage": "https://github.com/leo-freitas/mba-build#readme"
+}
